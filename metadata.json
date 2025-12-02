@@ -1,0 +1,5 @@
+{
+  "name": "LabReport AI - LaTeX Generator",
+  "description": "Upload your experiment guide, LaTeX template, and photos of your data sheets. This AI tool analyzes the data and generates a fully filled-out LaTeX report for you.",
+  "requestFramePermissions": []
+}
